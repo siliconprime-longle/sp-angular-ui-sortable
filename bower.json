@@ -1,0 +1,9 @@
+{
+  "name": "sp-angular-ui-sortable",
+  "version": "0.13.3",
+  "main": ["./sortable.js"],
+  "dependencies": {
+    "angular": ">=1.2.x",
+    "sp-jquery-ui": ">=1.9"
+  }
+}
